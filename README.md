@@ -1,2 +1,2 @@
 # Technical-Reports
-My technical reports repo
+My repo of technical reports
